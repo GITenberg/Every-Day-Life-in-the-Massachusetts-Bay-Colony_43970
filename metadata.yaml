@@ -1,0 +1,26 @@
+_repo: Every-Day-Life-in-the-Massachusetts-Bay-Colony_43970
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43970-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Dow, George Francis
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '42507'
+    url: http://www.gutenberg.org/2009/agents/42507
+description: ''
+gutenberg_issued: '2013-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- Social life and customs -- To 1775'
+- !lcc 'F001'
+title: Every Day Life in the Massachusetts Bay Colony
+url: http://www.gutenberg.org/ebooks/43970
