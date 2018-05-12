@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42507'
     url: http://www.gutenberg.org/2009/agents/42507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43970#Every-Day-Life-in-the-Massachusetts-Bay-Colony
 gutenberg_issued: '2013-10-17'
 gutenberg_type: Text
 identifiers:
